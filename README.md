@@ -6,7 +6,7 @@ It is multi facet proxy contracts which allow developers to upgrade easily alrea
 It has lots of valuable articles and turtorials.
 This repository provides you lots of resources to study Diamond Contract.
 
-Learning
+## Learning<br>
 [1. EIP-2535 Diamonds](https://eips.ethereum.org/EIPS/eip-2535)<br>
 [2. EIP-2535 Diamonds Reference Section](https://eips.ethereum.org/EIPS/eip-2535#learning--references)<br>
 [3. Understanding Diamonds on Ethereum](https://dev.to/mudgen/understanding-diamonds-on-ethereum-1fb)<br>
@@ -17,7 +17,7 @@ Learning
 [8. AppStorage Pattern for State Variables in Solidity](https://dev.to/mudgen/appstorage-pattern-for-state-variables-in-solidity-3lki)<br>
 [9. How to Share Functions Between Facets of a Diamond](https://dev.to/mudgen/how-to-share-functions-between-facets-of-a-diamond-1njb)<br>
 
-Discussion
+## Discussion<br>
 [1. Discussion for EIP-2535](https://ethereum-magicians.org/t/discussion-for-eip2535-diamonds/10459)
 
 Feel free to make pull request to add more valuable resources.
